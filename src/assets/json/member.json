@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "email": "aa@gmail.com",
+        "password": "aa",
+        "name": "aa",
+        "phone": "010-1111-1111",
+        "status": "LOGIN",
+        "date": "2021-12-11",
+        "avatar": "img",
+        "company": "pingpong company"
+    },{
+        "id": 2,
+        "email": "bb@gmail.com",
+        "password": "bb",
+        "name": "bb",
+        "phone": "010-1111-1111",
+        "status": "LOGOUT",
+        "date": "2021-12-12",
+        "avatar": "img",
+        "company": "pingpong company"
+    },{
+        "id": 3,
+        "email": "cc@gmail.com",
+        "password": "cc",
+        "name": "cc",
+        "phone": "010-1111-1111",
+        "status": "LOGOUT",
+        "date": "2021-12-15",
+        "avatar": "img",
+        "company": "douzone company"
+    },{
+        "id": 4,
+        "email": "dd@gmail.com",
+        "password": "dd",
+        "name": "dd",
+        "phone": "010-1111-1111",
+        "status": "LOGIN",
+        "date": "2021-12-17",
+        "avatar": "img",
+        "company": "douzone company"
+    },{
+        "id": 5,
+        "email": "ee@gmail.com",
+        "password": "ee",
+        "name": "ee",
+        "phone": "010-1111-1111",
+        "status": "VACTION",
+        "date": "2021-12-18",
+        "avatar": "img",
+        "company": "douzone company"
+    }
+]

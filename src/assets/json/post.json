@@ -1,0 +1,197 @@
+[
+   
+           
+                    {
+                        "id":1,
+                        "name":"공지의 1번글 제목",
+                        "contents":"공지의 1번글 내용",
+                        "date":"2021-11-11",
+                        "part_id":1,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    },
+                    {
+                        "id":2,
+                        "name":"공지의 2번글 제목",
+                        "contents":"공지의 2번글 내용",
+                        "date":"2021-11-12",
+                        "part_id":1,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    }, {
+                        "id":3,
+                        "name":"공지의 3번글 제목",
+                        "contents":"공지의 3번글 내용",
+                        "date":"2021-11-13",
+                        "part_id":1,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    }, {
+                        "id":4,
+                        "name":"공지의 4번글 제목",
+                        "contents":"공지의 4번글 내용",
+                        "date":"2021-11-14",
+                        "part_id":1,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    }, {
+                        "id":5,
+                        "name":"공지의 5번글 제목",
+                        "contents":"공지의 5번글 내용",
+                        "date":"2021-11-15",
+                        "part_id":1,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    },
+                
+                    {
+                        "id":6,
+                        "name":"코드리뷰의 1번글 제목",
+                        "contents":"코드리뷰의 1번글 내용",
+                        "date":"2021-11-12",
+                        "part_id":2,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    },
+                    {
+                        "id":7,
+                        "name":"코드리뷰의 2번글 제목",
+                        "contents":"코드리뷰의 2번글 내용",
+                        "date":"2021-11-12",
+                        "part_id":2,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    }, {
+                        "id":8,
+                        "name":"코드리뷰의 3번글 제목",
+                        "contents":"코드리뷰의 3번글 내용",
+                        "date":"2021-11-13",
+                        "part_id":2,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    }, {
+                        "id":9,
+                        "name":"코드리뷰의 4번글 제목",
+                        "contents":"코드리뷰의 4번글 내용",
+                        "date":"2021-11-14",
+                        "part_id":2,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":3
+                    }, {
+                        "id":10,
+                        "name":"코드리뷰의 5번글 제목",
+                        "contents":"코드리뷰의 5번글 내용",
+                        "date":"2021-11-15",
+                        "part_id":2,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":3
+                    },
+               
+                    {
+                        "id":11,
+                        "name":"공지의 1번글 제목",
+                        "contents":"공지의 1번글 내용",
+                        "date":"2021-11-11",
+                        "part_id":3,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    },
+                    {
+                        "id":12,
+                        "name":"공지의 2번글 제목",
+                        "contents":"공지의 2번글 내용",
+                        "date":"2021-11-12",
+                        "part_id":3,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    }, {
+                        "id":13,
+                        "name":"공지의 3번글 제목",
+                        "contents":"공지의 3번글 내용",
+                        "date":"2021-11-13",
+                        "part_id":3,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    }, {
+                        "id":14,
+                        "name":"공지의 4번글 제목",
+                        "contents":"공지의 4번글 내용",
+                        "date":"2021-11-14",
+                        "part_id":3,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    }, {
+                        "id":15,
+                        "name":"공지의 5번글 제목",
+                        "contents":"공지의 5번글 내용",
+                        "date":"2021-11-15",
+                        "part_id":3,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    },
+               
+                    {
+                        "id":16,
+                        "name":"코드리뷰의 1번글 제목",
+                        "contents":"코드리뷰의 1번글 내용",
+                        "date":"2021-11-12",
+                        "part_id":4,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    },
+                    {
+                        "id":17,
+                        "name":"코드리뷰의 2번글 제목",
+                        "contents":"코드리뷰의 2번글 내용",
+                        "date":"2021-11-12",
+                        "part_id":4,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":1
+                    }, {
+                        "id":18,
+                        "name":"코드리뷰의 3번글 제목",
+                        "contents":"코드리뷰의 3번글 내용",
+                        "date":"2021-11-13",
+                        "part_id":4,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":2
+                    }, {
+                        "id":19,
+                        "name":"코드리뷰의 4번글 제목",
+                        "contents":"코드리뷰의 4번글 내용",
+                        "date":"2021-11-14",
+                        "part_id":4,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":3
+                    }, {
+                        "id":20,
+                        "name":"코드리뷰의 5번글 제목",
+                        "contents":"코드리뷰의 5번글 내용",
+                        "date":"2021-11-15",
+                        "part_id":4,
+                        "file":null,
+                        "image":null,
+                        "post_member_id":3
+                    }
+              
+      
+]

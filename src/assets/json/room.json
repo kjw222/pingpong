@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "pingpong의 단체 채팅방",
+        "notice": "",
+        "team_team_id": 1
+    },{
+        "id": 2,
+        "name": "__",
+        "notice": "",
+        "team_team_id": 1
+        
+    },{
+        "id": 3,
+        "name": "douzone의 단체 채팅방",
+        "notice": "",
+        "team_team_id": 2
+    },{
+        "id": 4,
+        "name": "__",
+        "notice": "",
+        "team_team_id": 2
+        
+    }
+]
